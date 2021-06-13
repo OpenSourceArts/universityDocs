@@ -1,38 +1,37 @@
-# NetLogo
+# Twine
 
-**Website:** [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/ )
+**Website:** [https://twinery.org/ ](https://twinery.org/  )
 
-**Organization:** Center for Connected Learning and Computer-Based Modeling at Northwestern University
+**Organization:** Interactive Fiction Technology Foundation
 
-- (Northwestern University is a private, not-for-profit, nonsectarian, coeducational institution, created by Charter by the State of Illinois in 1851.)
-- [https://ccl.northwestern.edu/](https://ccl.northwestern.edu/ )
-- [https://ccl.northwestern.edu/netlogo/giving.shtml](https://ccl.northwestern.edu/netlogo/giving.shtml )
+- IFTF is registered in the United States as a 501(c)(3) charitable organization. Our Tax Identification Number is 81-1920375.
+- [https://iftechfoundation.org/](https://iftechfoundation.org/ )
+- [https://iftechfoundation.org/give/](https://iftechfoundation.org/give/ )
 
 **Donation Amount:** $500 (approx $10/student)
 
 **Courses Engaged:**
 
 ```
--     EDPX 2300 Systems in Emergent Digital Practices (multiple sections)
--     EDPX 3350 Sustainable Design
--     EDPX 3800 Biomedia
--     EDPX 3990 Undergraduate Capstone
+- FSEM 1111 Interactive Fiction & LatinX Futurism(s)
+- EDPX 2300 Systems in Emergent Digital Practices (multiple sections)
+- EDPX 2770 Exploring Digital Cultures
+- EDPX 3700 Digital Persona
+- EDPX 3990 Undergraduate Capstone
+- EDPX 4000 Digital Design Concepts
 ```
 
 **Total students using this software during 2020-2021 Academic Year:** ~50
 
-**NetLogo funded by donations and grants from:**
-- The National Science Foundation
-- The Spencer Foundation
-- Texas Instruments
+**Funded by donations and grants from Individual Memberships and Patreon**
 
-**NetLogo / Center for Connected Learning Mission:**
+**Interactive Fiction Technology Foundation Mission:**
 
-NetLogo is a multi-agent programmable modeling environment. It is used by many hundreds of thousands of students, teachers, and researchers worldwide. It also powers HubNet participatory simulations. The NetLogo environment enables learners to give simple rules to individual "agents" in a simulation and observe the collective result of all the agents' behavior. Using the NetLogo language, students and researchers have constructed large numbers of models of complex phenomena in the natural and social worlds. The Models Library that comes with NetLogo covers phenomena in biology, chemistry, physics, earth science economics, history, sociology, business, medicine and a variety of other domains. These models can be explored and revised as part of model-based inquiry in middle, secondary and undergraduate classrooms as well as serving as the basis for research in more advanced settings.
+The Interactive Fiction Technology Foundation (IFTF) helps ensure the ongoing maintenance, improvement, and preservation of the tools and services crucial to the creation and distribution of interactive fiction, as well as the development of new projects to foster the continued growth of this art form.
 
-Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL) is dedicated to the creative use of technology to deepen learning. The CCL is a research group headed by Prof. Uri Wilensky. It was founded in 1995 at Tufts University and relocated to Northwestern University in 2000. The center includes staff and students at Northwestern working together and in association with researchers here and at other universities. The group includes educational researchers, curriculum developers, software engineers, and model builders. The center is funded by Northwestern, the National Science Foundation, and a few commercial sponsors.
+Interactive fiction was one of the first genres to emerge in computer gaming. It remains a driving force and a leading edge for the broad, ever-developing spectrum of digital games. Today, interactive fiction presents a medium uniquely suited to experimenters and artists. IF can be written without a budget, without a publisher, without a team of artists or programmers. Since the 1990s it has been supported entirely by hobbyists, open-source projects, and informal associations of enthusiasts.
 
-In support of its research mission, we at the CCL also develop tools and curricula for use in both classrooms and informal learning settings. Tools developed at the CCL have been used with a wide range of learners, ranging from young children to frontier level researchers in universities, businesses, and laboratories. Our technologies enable learners to make deep connections between what they are learning and their personal experience of the world.
+It is the purpose of IFTF to offer organized support to these many passion-driven projects, helping to ensure the survival and growth of interactive fiction while maintaining the unique advantages of this medium.
 
 **Justification:**
 
@@ -42,4 +41,4 @@ While in the past FOSS has been seen as “free” for the University and a way 
 
 With all of this in mind, we ask that the University understand that with our contributions to FOSS, we show by example what it looks like being responsible citizens. All the FOSS tools we use need financial support, in exactly the same way that we as a University pay for all the other types of software we use. The issue here is that while we can obtain invoices and contracts for regular software, FOSS organizations cannot provide the same. Instead, they require donations to be considered successful non-profit organizations and to receive additional support in the form of grants.
 
-NetLogo was developed at another University because they saw the need for a tool which lets students explore complex systems with accessible and visual tools. Additionally, NetLogo is versatile enough that it is used in the sciences and so lets students collaborate and bridge bodies of knowledge.
+Twine is the primary open source tool for creating interactive fiction and simple path choosing games. It has been used in tens of thousands of complex game and related experiences online. Creatives using Twine have won awards at every level in the digital poetry and Independent gaming fields.
