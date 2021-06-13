@@ -22,9 +22,9 @@
 **Total students using this software during 2020-2021 Academic Year:** ~50
 
 **Processing funded by donations and grants from:**
--     The National Science Foundation
--     The Spencer Foundation
--     Texas Instruments
+- The National Science Foundation
+- The Spencer Foundation
+- Texas Instruments
 
 **NetLogo / Center for Connected Learning Mission:**
 
