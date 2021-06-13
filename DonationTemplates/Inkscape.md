@@ -1,45 +1,38 @@
-# Blender
+# Inkscape
 
-**Website:** [https://www.blender.org/ ](https://www.blender.org/  )
+**Website:** [https://inkscape.org/ ](https://inkscape.org/ )
 
-**Organization:** Blender Foundation
+**Organization:** The Inkscape Fund
 
-- The Blender Foundation is registered as a public benefit organization registered at Chamber of Commerce registry in Amsterdam: 34176425. Tax (VAT / BTW)  number NL811166223
-- [https://www.blender.org/foundation/ ](https://www.blender.org/foundation/  )
-- [https://www.blender.org/foundation/donation-payment/](https://www.blender.org/foundation/donation-payment/ )
+- currently managed by the Software Freedom Conservancy, Inc., a 501(c)(3) non-profit
+- [https://sfconservancy.org/ ](https://sfconservancy.org/ )
+- [https://inkscape.org/support-us/donate/ ](https://inkscape.org/support-us/donate/ )
 
-**Donation Amount:** $500 (approx $10/student)
+**Donation Amount:** $250 (approx $10/student)
 
 **Courses Engaged:**
 
 ```
-- EDPX 3800 3D Spaces 
-- EDPX 3800 Web 3D 
-- EDPX 3960 BFA Capstone Research & Design 
-- EDPX 3990 Undergraduate Capstone 
-- EDPX 5100 Graduate Critique 
-- EDPX 5850 MA Project 
-- EDPX 5900 MFA Exhibition 
+- EDPX 2000 Imaging in Emergent Digital Practices (multiple sections) 
+- EDPX 4010 Emergent Digital Tools 
+- Installed on all EDP Lab Computers for general use  
 ```
 
-**Total students using this software during 2020-2021 Academic Year:** ~50
+**Total students using this software during 2020-2021 Academic Year:** ~25
 
 **Funded by donations and grants from**
-- NVIDIA 
-- Intel 
-- Microsoft 
-- Google 
-- AMD 
-- Epic MegaGrants 
-- and hundreds of other businesses and institutions (see https://fund.blender.org/)
+- RedHat Linux 
+- Telecom Paris 
+- Oregon State University 
+- GitLab 
 
-**Blender Foundation Mission:**
+**Inkscape Foundation Mission:**
 
-The Blender Foundation (2002) is an independent public benefit organization with the purpose to provide a complete, free and open source 3D creation pipeline, managed by public projects on blender.org.
+The design process may begin by doodles on a napkin, a sketched mindmap, a photo of a memorable object, or a mockup in software which really wouldn't work to complete the project. Inkscape can take you from this stage to a final, professional-grade design format which is ready for publication on the web or in physical form.
 
-Its spin-off corporation Blender Institute (2007) hosts the foundation’s offices and currently employs 24 people who work on the Blender software and creative projects to validate and stress Blender in production environments.
+If you are new to the process of creating vector graphics it may feel different, but you will quickly be pleased by the flexibility, and power Inkscape offers. Vector design is often the preferred method of image creation for logos, illustrations and art which require high scalability. The Inkscape application is used across a wide variety of industries (marketing/branding, engineering/CAD, web graphics, cartooning) and individual uses.
 
-The Foundation’s income is via donations and the Development Fund. The Institute revenues come from Blender Cloud, the Blender Store and sponsoring. This enables Ton Roosendaal and a small staff to work full-time on Blender, organize activities for SIGGRAPH or the Blender Conference, support development, documentation and training projects, maintain and host blender.org services, and pay for bookkeeping and administration expenses. Blender remains a true community effort. Work on Blender itself, new projects or roadmaps are all managed via open channels on blender.org. You can learn more about them and get involved.
+The software development of Inkscape adheres to opensource standards, and is intended to provide the user community with a solid, usable product. The process is an open, community-oriented development which focuses on a small core and extensibility. Please consider joining us if you have an interest, skill or positive voice you would like to offer. Donations to the Inkscape Fund not only help us pay fees - the money also helps developers attend various world-wide meetings, seminars, conventions, conferences, etc. These are essential to allow Inkscape developers to keep abreast of new developments, as well as to share their own work or research, to exert influence on the development of new standards, and to learn new skills from their peers.
 
 **Justification:**
 
@@ -49,4 +42,4 @@ While in the past FOSS has been seen as “free” for the University and a way 
 
 With all of this in mind, we ask that the University understand that with our contributions to FOSS, we show by example what it looks like being responsible citizens. All the FOSS tools we use need financial support, in exactly the same way that we as a University pay for all the other types of software we use. The issue here is that while we can obtain invoices and contracts for regular software, FOSS organizations cannot provide the same. Instead, they require donations to be considered successful non-profit organizations and to receive additional support in the form of grants.
 
-Blender is the only significant open source 3D modeling tool and has no equal. It is used for creating animating, assets for video games, objects for digital fabrication, and worlds for virtual reality. It is a cornerstone in our curriculum and in the field more broadly.
+Inkscape is the longest running and most powerful open source vector image editing tool available. Vector editing is key to designing things like logos, outlines, creating lettering and other kinds of designs. It is also a key part of working with laser cutters and vinyl cutters.
