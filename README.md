@@ -1,4 +1,4 @@
-# universityDocs
+# University Docs
 Documents and guides useful for people working at Universities in connection with Open Source.
 
 ## Donation Documents
