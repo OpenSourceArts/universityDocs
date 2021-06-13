@@ -12,6 +12,7 @@
 
 **Courses Engaged:**
 
+'''
 - EDPX 2100 Codes in Emergent Digital Practices (multiple sections)
 - EDPX 3100 Programming for Play
 - EDPX 3200 Data Visualization
@@ -23,6 +24,8 @@
 - EDPX 4010 Emergent Digital Tools
 - EDPX 5850 MA Project
 - EDPX 5900 MFA Exhibition
+'''
+
 
 **Total students using this software during 2020-2021 Academic Year:** ~125
 
